@@ -1,5 +1,5 @@
 # PROJE AMACI:
-Bu proje reklam verilerek satışların nasıl değiştiğini gösteriyor. Doğrusal Regresyon problemi olarak ortaya çıkmıştır.Aşağı da kaggle da verisetinin linki vardır.
+Bu proje reklam verilerek satışların nasıl değiştiğini gösteriyor. Doğrusal Regresyon problemi olarak ortaya çıkmıştır.Aşağıda kaggle da ki verisetinin linki vardır.
 
 https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 
